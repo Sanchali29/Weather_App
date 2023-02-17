@@ -1,4 +1,6 @@
 # FRONT END WEATHER APPLICATION:
+https://lovely-elf-4798af.netlify.app/
+
 Created a weather app that allows users to search for a city and displays the current weather conditions. The app uses a weather API to fetch the data and display it in a visually appealing way using Next JS/React JS and CSS.
 
 # Here are the steps to create a frontend weather application:
@@ -19,3 +21,8 @@ Create a search bar: Create a search bar where users can enter the name of the c
 Fetch the data: Fetch the weather data for the entered city from the API using the "fetch" function and display it on the screen.
 
 Add styling: Use CSS to add styling to your weather app and make it visually appealing.
+
+After writing HTML, css and Javascript code, host your website using netlify.
+
+LINK TO THE WEBSITE:
+https://lovely-elf-4798af.netlify.app/
